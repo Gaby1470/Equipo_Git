@@ -1,0 +1,1 @@
+print("El examen estuvo mejor que el de la vez pasada")
