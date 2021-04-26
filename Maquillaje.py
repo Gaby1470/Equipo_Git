@@ -1,0 +1,1 @@
+print("Necesito comprar rimel y polvo")
